@@ -1,0 +1,17 @@
+#user_name
+{
+border-radius: 100px;
+border-color: red;
+border-width: thick;
+}
+
+#login_button
+{
+    border-radius: 100px;
+}
+
+body
+{
+    text-align: center;
+    background-color: lightblue;
+}
